@@ -48,6 +48,7 @@ dbase = 'https://database_name.firebaseio.com/' #use your firebase database dest
 1. Run the simulator.py in your machine.
 2. Run the controller.py in your friend's machine.
 
+==> Press Esc Button Anytime to Exit
 
 ## Contributing
 Pull requests are welcome. 
