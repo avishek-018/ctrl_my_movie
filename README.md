@@ -23,6 +23,21 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install necessa
 ```bash
 pip install python-firebase,pynput
 ```
+## Database Setup
+You need a central database to pass the controls.
+
+Firebase is handy.
+
+##### 1. Setup a Firebase Realtime Database Just like the structure below.
+
+![image](https://user-images.githubusercontent.com/19516280/58494446-efd06400-8196-11e9-883a-533bd03f6239.png)
+##### 2. Change both the 'controller' and 'simulator' files as below.
+
+```python
+dbase = 'https://database_name.firebaseio.com/' #use your firebase database destination here
+```
+
+
 
 ## Usage
 ##### If you want to control
