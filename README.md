@@ -11,7 +11,7 @@ Like, he/she can pause/mute/volume_up/volume_down/forward/rewind .
 ## Installation
 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/silenthunter007/ctrl_my_movie.git
 ```
 2. Install requirements
 ```bash
