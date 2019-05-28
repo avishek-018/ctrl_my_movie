@@ -4,6 +4,10 @@ It's fun type mini script on python. Suppose you and your friend are watching a 
 Your friend Can control your media player.
 Like, he/she can pause/mute/volume_up/volume_down/forward/rewind .
 
+## Supported Media Players
+1. Pot Player
+2. KM Player
+
 ## Installation
 1. Clone the repo
 ```bash
@@ -49,7 +53,6 @@ dbase = 'https://database_name.firebaseio.com/' #use your firebase database dest
 2. Run the controller.py in your friend's machine.
 
 ==> Press Esc Button Anytime to Exit
-
 ## Contributing
 Pull requests are welcome. 
 
